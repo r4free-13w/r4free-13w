@@ -1,4 +1,4 @@
-## Olá quen esteja a ler, eu sou só um usuário qualquer
+## Olá quem esteja a ler, eu sou só um usuário qualquer
 
 <div>
   <a href="https://beacons.ai/r4free-13w">
