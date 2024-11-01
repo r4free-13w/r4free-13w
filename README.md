@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
-  ##
+  ## Redes soscias de PlayGames
  
 <div> 
   <a href="https://www.youtube.com/@PlayGames-hj4oj" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
   <a href = "mailto:playgames16.01.2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-![Snake animation](https://github.com/r4free-13w/r4free-13w/blob/output/github-contribution-grid-snake.svg)
+<!--
+![Snake animation](https://github.com/r4free-13w/r4free-13w/blob/output/github-contribution-grid-snake.svg) -->
